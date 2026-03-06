@@ -1,0 +1,7 @@
+{
+  "name": "SMMD - Smart Migraine Monitoring",
+  "description": "A comprehensive React dashboard simulating the requested IoT architecture. It visualizes ESP32 sensor streams, mimics the Python AI worker using OpenRouter (Gemini models) for anomaly detection, and replicates the Realtime Database/Firestore data flow in a browser environment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

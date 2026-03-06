@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.vercel/
+
+# Environment & secrets (never commit)
+.env
+.env.local
+.env.*.local
+
+# Large binaries & archives (optional - remove lines if you want to include)
+*.zip
+*.rar
+*.7z
+*.exe
+*.msi
+
+# SDKs & installers (too large for GitHub)
+firebase_cpp_sdk_13.3.0/
+jdk-25_windows-x64_bin/
+
+# OS & editor
+.DS_Store
+Thumbs.db
+*.log
