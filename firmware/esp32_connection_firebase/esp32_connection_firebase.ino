@@ -9,11 +9,11 @@
 #include <time.h>
 
 // ================= CREDENTIALS =================
-#define WIFI_SSID "nicolas_laptop"
-#define WIFI_PASSWORD "123456798" 
+#define WIFI_SSID ""
+#define WIFI_PASSWORD "" 
 
-#define API_KEY "AIzaSyDClilSXDM_5RE712y6pARBtXtYADoSZCQ"
-#define DATABASE_URL "https://smmd-854c8-default-rtdb.europe-west1.firebasedatabase.app/"
+#define API_KEY ""
+#define DATABASE_URL ""
 
 // Your Device ID (Must match the folder name in your database)
 const char* DEVICE_ID = "ESP32-001";

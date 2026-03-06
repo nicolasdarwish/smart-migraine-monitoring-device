@@ -25,7 +25,7 @@
 #define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
 // Firebase Configuration
-#define FIREBASE_HOST "smmd-854c8-default-rtdb.europe-west1.firebasedatabase.app"
+#define FIREBASE_HOST ""
 #define FIREBASE_AUTH "YOUR_FIREBASE_DATABASE_SECRET"  // Optional: Database secret from Firebase Console > Realtime Database > Rules
 
 // Device Configuration
