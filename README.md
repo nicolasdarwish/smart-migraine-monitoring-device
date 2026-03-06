@@ -99,4 +99,4 @@ Stability: Implemented a Moving Average Filter to successfully eliminate heart r
 
 Efficiency: The device supports at least 4.4 hours of continuous operation under maximum Wi-Fi load, with significantly longer runtimes in standby.
 
-User Impact: The prototype demonstrates that combining subjective diary input with objective sensor data provides a more holistic view of migraine patterns than traditional methods.![1772817881740](image/README/1772817881740.png)![1772817887390](image/README/1772817887390.png)![1772817940923](image/README/1772817940923.png)![1772817946905](image/README/1772817946905.png)![1772817994071](image/README/1772817994071.png)![1772818001618](image/README/1772818001618.png)![1772818033087](image/README/1772818033087.png)
+User Impact: The prototype demonstrates that combining subjective diary input with objective sensor data provides a more holistic view of migraine patterns than traditional methods.
